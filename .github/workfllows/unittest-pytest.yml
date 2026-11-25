@@ -1,5 +1,5 @@
 # workflow for push pull merge action ,this workflow run pytest testcases on github actions
-name: Python application Continous Integration
+name: Python application CI
 
 on:
   push:
